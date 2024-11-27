@@ -11,7 +11,6 @@ A sophisticated terminal-based development environment that integrates Claude AI
 - 💬 Persistent chat history
 - 🔄 Automatic project backups
 - 📊 Token usage tracking
-- 🛡️ WAF ruleset management
 
 ## Prerequisites
 
