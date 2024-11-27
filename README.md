@@ -15,7 +15,6 @@ A sophisticated terminal-based development environment that integrates Claude AI
 ## Prerequisites
 
 - Python 3.8+
-- AWS account with appropriate permissions
 - Anthropic API key
 - Tavily API key
 
